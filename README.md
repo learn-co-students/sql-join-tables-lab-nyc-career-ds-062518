@@ -175,4 +175,4 @@ Although it is easy for a computer to remember heroes and powers based upon thei
 
 ## Summary
 
-Great work! In this lab we practiced writing SQL queries on tables with a many to many relationship. We used JOIN statements to query results across tables and select only instances that met the requirements 
+Great work! In this lab we practiced writing SQL queries on tables with a many to many relationship. We used JOIN statements to query results across tables and select only instances that met the requirements
